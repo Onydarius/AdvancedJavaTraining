@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+.header-container {
+	background-color:  #ECF7F8 !important;
+	font-weight: bold;
+	color: #002B8A;
+}
+
+.text-title{
+	font-weight: bold;
+	font-size: 25px;
+}
+
+.fixed-input{
+	margin-bottom: 5px !important;
+}
+
+.secondary-color{
+	background-color:#F6FEFF;
+}
